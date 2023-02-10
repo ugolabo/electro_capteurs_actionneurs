@@ -20,6 +20,5 @@ Protocols: analog (8-bit out, 10-bit in) and digital GPIO, serial or UART (RX, T
 
 |   |   |   |   |
 |---|---|---|---|
-| <img src="img/ampere_transistors.png" alt="" width="150">  | <img src="img/farad_capacitors.png" alt="" width="150">  | <img src="img/ohm_resistors.png" alt="" width="150">  | <img src="img/ohm_resistors2.png" alt="" width="150">  |
-| <img src="img/volt_regulators.png" alt="" width="150">  |   |   |   |
-| <img src="img/laws.png" alt="" width="150">  | <img src="img/schema_a.jpg" alt="" width="150">  | <img src="img/schema_b.jpg" alt="" width="150">  |   |
+| <img src="img/ampere_transistors.png" alt="" width="200">  | <img src="img/farad_capacitors.png" alt="" width="200">  | <img src="img/ohm_resistors.png" alt="" width="200">  | <img src="img/ohm_resistors2.png" alt="" width="200">  |
+| <img src="img/volt_regulators.png" alt="" width="200">  | <img src="img/laws.png" alt="" width="200">  | <img src="img/schema_a.jpg" alt="" width="200">  | <img src="img/schema_b.jpg" alt="" width="200">  |
