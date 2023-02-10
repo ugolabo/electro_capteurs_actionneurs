@@ -8,8 +8,8 @@ Projects, experiments (see a **comprehensive project**, as an example, with comp
 
 | Doc samples  |   |   |   |
 |:---|:---|:---|:---|
-| <img src="img/ampere_transistors.png" alt="" width="200">  | <img src="img/farad_capacitors.png" alt="" width="200">  | <img src="img/ohm_resistors.png" alt="" width="200">  | <img src="img/ohm_resistors2.png" alt="" width="200">  |
-| <img src="img/volt_regulators.png" alt="" width="200">  | <img src="img/laws.png" alt="" width="200">  | <img src="img/schema_a.jpg" alt="" width="200">  | <img src="img/schema_b.jpg" alt="" width="200">  |
+| <img src="img/ampere_transistors.jpg" alt="" width="200">  | <img src="img/farad_capacitors.jpg" alt="" width="200">  | <img src="img/ohm_resistors.jpg" alt="" width="200">  | <img src="img/ohm_resistors2.jpg" alt="" width="200">  |
+| <img src="img/volt_regulators.jpg" alt="" width="200">  | <img src="img/laws.jpg" alt="" width="200">  | <img src="img/schema_a.jpg" alt="" width="200">  | <img src="img/schema_b.jpg" alt="" width="200">  |
 
 - Tools: pincers, cutters, soldering station, extraction tools, cable stripper, crimpers, screwdrivers, and more.
 - Instruments: bench DC power supply, bench function generator, bench and portable multimeters, bench oscilloscope.
