@@ -16,6 +16,6 @@ Projects, experiments (see a **comprehensive project**, as an example, with comp
 
 | Measurement samples  |   |   |
 |:---|:---|:---|
-| bench instruments  | <img src="img/instruments_1.jpg" alt="" width="150">  | <img src="img/instruments_2.jpg" alt="" width="150">  |
+| Bench instruments  | <img src="img/instruments_1.jpg" alt="" width="150">  | <img src="img/instruments_2.jpg" alt="" width="150">  |
 | RC circuit; phase shift, power pin vs resistor pins measurements with a capacitor  | <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="150">  |
 | RL circuit; measurements with a resistor and a coil  | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="150">  |
