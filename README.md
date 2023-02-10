@@ -13,9 +13,12 @@ Software: Arduino IDE with C sketches to command and analyze incoming data, Mult
 Protocols: analog (8-bit out, 10-bit in) and digital GPIO, serial or UART (RX, TX), I2C (SCL, SDA), SPI (SCK, MSO, MOSI, SS), WiFi, Bluetooth and BLE, LoRa
 
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-| RC circuit; phase shift, power pin vs resistor pins measures with a capacitor  |   | RL circuit; with a resistor and a coil  |   |
-| <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="150">  |
+|   |   |   |
+|---|---|---|
+| RC circuit; phase shift, power pin vs resistor pins measures with a capacitor  | <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="150">  |
+| RL circuit; with a resistor and a coil  | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="150">  |
+
+
+
+|   |   |   |   |
+|   |   |   |   |
