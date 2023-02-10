@@ -2,7 +2,7 @@
 
 Electronics, sensors, and actuators with C on Arduino
 
-Projects, experiments, programming, measurements in the labs (see an example of a **comprehensive project** with components, an Arduino Uno, a C sketch, and diagrams)
+Projects, experiments, programming, measurements in the labs (see the  example of a **comprehensive project** with components, an Arduino Uno, a C sketch, and diagrams). Lab work involved:
 
 - Components: breadboards, connecting wires, crocrodile clips, banana terminals, coaxial cables, resistors, SIP resistors, capacitors, coils, LEDs (unicolor, bicolor, RGB), barographs, push buttons (on-off, off-on), pull-up and pull-down resistors, DC motor, step motor, servo motor (90, 180, 360), transitors, diodes, potentiometers, RGB LCD shields, photoresistors, temperature and humidity sensor, relays, switches, dual flip-flop, and more
 - Software: Arduino IDE with C sketches to command and analyze incoming data, Multisim to simulate and measure circuits
