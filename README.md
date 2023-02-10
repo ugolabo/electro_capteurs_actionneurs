@@ -9,7 +9,7 @@ Projects, experiments, programming, measurements in the labs (see the  example o
 - Protocols: analog (8-bit out, 10-bit in) and digital GPIO, serial or UART (RX, TX), I2C (SCL, SDA), SPI (SCK, MSO, MOSI, SS), WiFi, Bluetooth and BLE, LoRa
 
 | Doc examples  |   |   |   |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | <img src="img/ampere_transistors.png" alt="" width="200">  | <img src="img/farad_capacitors.png" alt="" width="200">  | <img src="img/ohm_resistors.png" alt="" width="200">  | <img src="img/ohm_resistors2.png" alt="" width="200">  |
 | <img src="img/volt_regulators.png" alt="" width="200">  | <img src="img/laws.png" alt="" width="200">  | <img src="img/schema_a.jpg" alt="" width="200">  | <img src="img/schema_b.jpg" alt="" width="200">  |
 
@@ -17,7 +17,7 @@ Projects, experiments, programming, measurements in the labs (see the  example o
 - Instruments: bench DC power supply, bench function generator, bench and portable multimeters, bench oscilloscope
 
 | Measurement examples  |   |   |
-|---|---|---|
+|:---|:---|:---|
 | bench instruments  | <img src="img/instruments_1.jpg" alt="" width="150">  | <img src="img/instruments_2.jpg" alt="" width="150">  |
 | RC circuit; phase shift, power pin vs resistor pins measurements with a capacitor  | <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="150">  |
 | RL circuit; measurements with a resistor and a coil  | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="150">  |
