@@ -16,4 +16,4 @@ Protocols: analog (8-bit out, 10-bit in) and digital GPIO, serial or UART (RX, T
 |   |   |   |   |   |
 |---|---|---|---|---|
 |   |   |   |   |   |
-| <img src="img/oscilloscope_amp_per_freq1.jpg" alt="">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="">  | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="">  | <img src="img/oscilloscope_charge_decharge_c.jpg" alt="">  |
+| <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="150">  | <img src="img/oscilloscope_charge_decharge_c.jpg" alt="" width="150">  |
