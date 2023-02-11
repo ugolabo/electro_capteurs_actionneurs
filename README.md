@@ -1,6 +1,6 @@
 # Electronics, Sensors, and Actuators with C on Arduino
 
-**Objective**: grasping the fundamentals of hardware in IoT with a microcontroller and the C language.
+**Objective**: grasp the fundamentals of hardware with a microcontroller and the C language. Grasp important concepts in electricity and electronics.
 
 Projects, experiments (see a **comprehensive project**, as an example, with components, an Arduino Uno, a C sketch, diagrams, etc.). All projects involve:
 
