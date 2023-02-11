@@ -1,5 +1,7 @@
 # Electronics, Sensors, and Actuators with C on Arduino
 
+**Objective**: grasping the fundamentals of hardware in IoT.
+
 Projects, experiments (see a **comprehensive project**, as an example, with components, an Arduino Uno, a C sketch, diagrams, etc.). All projects involve:
 
 - Components: breadboards, connecting wires, crocrodile clips, banana terminals, coaxial cables, resistors, SIP resistors, capacitors, coils, LEDs (unicolor, bicolor, RGB), barographs, push buttons (on-off, off-on), pull-up and pull-down resistors, DC motor, step motor, servo motor (90, 180, 360), transitors, diodes, potentiometers, RGB LCD shields, photoresistors, temperature and humidity sensor, relays, switches, dual flip-flop, and more.
