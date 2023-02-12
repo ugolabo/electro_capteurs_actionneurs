@@ -1,6 +1,6 @@
 # Electronics, Sensors, and Actuators with C on Arduino
 
-**Objective**: grasp the fundamentals of hardware with a microcontroller and the C language. Grasp important concepts in electricity and electronics.
+**Objective**: grasp hardware fundamentals with a microcontroller and the C language. Grasp electricity and electronics concepts.
 
 Projects, experiments (see a **comprehensive project**, as an example, with components, an Arduino Uno, a C sketch, diagrams, etc.). All projects involve:
 
