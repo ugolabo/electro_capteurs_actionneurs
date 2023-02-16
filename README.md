@@ -27,22 +27,21 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 <img src="img/rappel_bas_et_haut.jpg" alt="" width="150">
 
 
-<img src="img/rappel_haut.jpg" alt="" width="150">
+<img src="img/afficheur.jpg" alt="" width="150">
 
-<img src="img/rappel_haut.jpg" alt="" width="150">
+<img src="img/alimentation_table.jpg" alt="" width="150">
 
-<img src="img/rappel_haut.jpg" alt="" width="150">
+<img src="img/generateur_fonctions.jpg" alt="" width="150">
 
-<img src="img/rappel_haut.jpg" alt="" width="150">
+<img src="img/multimetre.jpg" alt="" width="150">
 
-<img src="img/rappel_haut.jpg" alt="" width="150">
+<img src="img/multimetre_table.jpg" alt="" width="150">
 
-<img src="img/rappel_haut.jpg" alt="" width="150">
+<img src="img/multisim.jpg" alt="" width="150">
 
-<img src="img/rappel_haut.jpg" alt="" width="150">
+<img src="img/oscilloscope.jpg" alt="" width="150">
 
-<img src="img/rappel_haut.jpg" alt="" width="150">
+<img src="img/relai.jpg" alt="" width="150">
 
-<img src="img/rappel_haut.jpg" alt="" width="150">
+<img src="img/servo.jpg" alt="" width="150">
 
-<img src="img/rappel_haut.jpg" alt="" width="150">
