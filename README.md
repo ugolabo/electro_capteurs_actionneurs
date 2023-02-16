@@ -10,8 +10,8 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 | Échantillons  |   |   |
 |:---|:---|:---|
 | Alimentation et générateur de fonction  | <img src="img/alimentation_table.jpg" alt="" width="150">  | <img src="img/generateur_fonctions.jpg" alt="" width="150">  |
-| Multimètres | <img src="img/multimetre_table.jpg" alt="" width="150">  | <img src="img/multimetre.jpg" alt="" width="150">  |
-| Générateur de fonction et oscilloscoope | <img src="img/oscilloscope.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="150">  |
+| Multimètres | <img src="img/multimetre_table.jpg" alt="" width="150">  | <img src="img/multimetre.jpg" alt="" width="100">  |
+| Générateur de fonction et oscilloscoope | <img src="img/oscilloscope.jpg" alt="" width="150">  |   |
 
 | Échantillons  |   |   |
 |:---|:---|:---|
