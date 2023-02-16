@@ -1,6 +1,6 @@
 # Électronique, capteurs et actionneurs en langage C sur Arduino
 
-**Objectif:** maitriser les fondements de l'électronique (concepts d'électricité, composants, vocabulaire), du langage C, des microcontrôleurs (Arduino Uno) afin de construire des projets simples en IoT et de pouvoir collaborer avec des spécialistes de ces domaines dans des projets avancés.
+**Objectif:** maitriser les fondements de l'électronique (concepts d'électricité, composants, vocabulaire), des microcontrôleurs (Arduino Uno), du langage C afin de construire des projets simples en IoT et de pouvoir collaborer avec des spécialistes de ces domaines dans des projets avancés.
 
 Projets, expériences (consulter le **projet intégrateur**, par exemple, avec ses composants, un Arduino Uno, un code source C, un diagramme, etc.). Les projets et les expériences impliquent:
 
