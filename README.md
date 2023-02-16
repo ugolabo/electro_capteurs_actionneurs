@@ -9,11 +9,11 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 
 | Échantillons  |   |   |
 |:---|:---|:---|
-| Alimentation et générateur de fonctions  | <img src="img/alimentation_table.jpg" alt="" width="150">  | <img src="img/generateur_fonctions.jpg" alt="" width="150">  |
+| Alimentation | Générateur de fonctions  | <img src="img/alimentation_table.jpg" alt="" width="150">  | <img src="img/generateur_fonctions.jpg" alt="" width="150">  |
 | Multimètres | <img src="img/multimetre_table.jpg" alt="" width="150">  | <img src="img/multimetre.jpg" alt="" width="100">  |
-| Oscilloscope et générateur de fonctions  | <img src="img/instruments_1.jpg" alt="" width="150">  | <img src="img/instruments_2.jpg" alt="" width="150">  |
-| Circuit RC; déphasage entre bornes alimentation et bornes résistance | <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="150">  |
-| Circuit RL; mesures aux bornes résistances et bornes bombine | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="150">  |
+| Oscilloscope | Générateur de fonctions  | <img src="img/instruments_1.jpg" alt="" width="150">  | <img src="img/instruments_2.jpg" alt="" width="150">  |
+| Circuit RC: déphasage entre bornes alimentation et bornes résistance | <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="150">  |
+| Circuit RL: mesures aux bornes résistances et bornes bombine | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="150">  |
 
 | Échantillons  |   |   |   |
 |:---|:---|:---|:---|
@@ -25,13 +25,13 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 
 | Échantillons  |   |   |
 |:---|:---|:---|
-| Montages; 2 rappels hauts, rappel haut et rappel bas  | <img src="img/rappel_haut.jpg" alt="" width="150">  | <img src="img/rappel_bas_et_haut.jpg" alt="" width="150">  |
-| Montage; afficheur  | <img src="img/afficheur.jpg" alt="" width="150">  |   |
-| Schémas Fritzing; relai, servomoteur  | <img src="img/relai.jpg" alt="" width="150">  | <img src="img/servo.jpg" alt="" width="150">  |
-| Schéma Fritzing; moteur DC  | <img src="img/moteur_dc.jpg" alt="" width="150">  |   |
+| Montages: 2 rappels hauts | rappel haut et rappel bas  | <img src="img/rappel_haut.jpg" alt="" width="150">  | <img src="img/rappel_bas_et_haut.jpg" alt="" width="150">  |
+| Montage: afficheur  | <img src="img/afficheur.jpg" alt="" width="150">  |   |
+| Schémas: relai | servomoteur  | <img src="img/relai.jpg" alt="" width="150">  | <img src="img/servo.jpg" alt="" width="150">  |
+| Schéma Fritzing: moteur DC  | <img src="img/moteur_dc.jpg" alt="" width="150">  |   |
 
 - Logiciels: EDI Arduino, codes sources C pour piloter le microcontrôleur (et le montage de composants) et analyser les données entrantes, Multisim pour simuler et mesurer un circuit
 
 | Échantillons  |   |
 |:---|:---|
-| Multisim; circuit, simulation, mesure  | <img src="img/multisim.jpg" alt="" width="150">  |
+| Multisim: circuit, simulation et mesure  | <img src="img/multisim.jpg" alt="" width="150">  |
