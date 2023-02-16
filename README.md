@@ -27,7 +27,7 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 |:---|:---|:---|
 | Montages: 2 rappels hauts ; rappel haut et rappel bas  | <img src="img/rappel_haut.jpg" alt="" width="150">  | <img src="img/rappel_bas_et_haut.jpg" alt="" width="150">  |
 | Montage: afficheur  | <img src="img/afficheur.jpg" alt="" width="150">  |   |
-| Schémas: relai | servomoteur  | <img src="img/relai.jpg" alt="" width="150">  | <img src="img/servo.jpg" alt="" width="150">  |
+| Schémas: relai ; servomoteur  | <img src="img/relai.jpg" alt="" width="150">  | <img src="img/servo.jpg" alt="" width="150">  |
 | Schéma Fritzing: moteur DC  | <img src="img/moteur_dc.jpg" alt="" width="150">  |   |
 
 - Logiciels: EDI Arduino, codes sources C pour piloter le microcontrôleur (et le montage de composants) et analyser les données entrantes, Multisim pour simuler et mesurer un circuit
