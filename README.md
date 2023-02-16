@@ -11,11 +11,7 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 |:---|:---|:---|
 | Alimentation et générateur de fonction  | <img src="img/alimentation_table.jpg" alt="" width="150">  | <img src="img/generateur_fonctions.jpg" alt="" width="150">  |
 | Multimètres | <img src="img/multimetre_table.jpg" alt="" width="150">  | <img src="img/multimetre.jpg" alt="" width="100">  |
-| Générateur de fonction et oscilloscoope | <img src="img/oscilloscope.jpg" alt="" width="150">  |   |
-
-| Échantillons  |   |   |
-|:---|:---|:---|
-| Oscilloscope, générateur de fonction  | <img src="img/instruments_1.jpg" alt="" width="150">  | <img src="img/instruments_2.jpg" alt="" width="150">  |
+| Oscilloscope et générateur de fonction  | <img src="img/instruments_1.jpg" alt="" width="150">  | <img src="img/instruments_2.jpg" alt="" width="150">  |
 | Circuit RC; déphasage entre bornes alimentation et bornes résistance | <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="150">  |
 | Circuit RL; mesures aux bornes résistances et bornes bombine | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="150">  |
 
