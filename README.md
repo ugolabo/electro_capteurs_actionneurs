@@ -24,6 +24,25 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 
 <img src="img/rappel_haut.jpg" alt="" width="150">
 
-<img src="img/rappel_bas.jpg" alt="" width="150">
+<img src="img/rappel_bas_et_haut.jpg" alt="" width="150">
 
 
+<img src="img/rappel_haut.jpg" alt="" width="150">
+
+<img src="img/rappel_haut.jpg" alt="" width="150">
+
+<img src="img/rappel_haut.jpg" alt="" width="150">
+
+<img src="img/rappel_haut.jpg" alt="" width="150">
+
+<img src="img/rappel_haut.jpg" alt="" width="150">
+
+<img src="img/rappel_haut.jpg" alt="" width="150">
+
+<img src="img/rappel_haut.jpg" alt="" width="150">
+
+<img src="img/rappel_haut.jpg" alt="" width="150">
+
+<img src="img/rappel_haut.jpg" alt="" width="150">
+
+<img src="img/rappel_haut.jpg" alt="" width="150">
