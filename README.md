@@ -4,8 +4,8 @@
 
 Projets, expériences (consulter le **projet intégrateur**, par exemple, avec ses composants, un Arduino Uno, un code source C, un diagramme, etc.). Les projets et les expériences impliquent:
 
-- Outils: pinces, brucelles, cutters, ciseaux, station de soudure, outils d’extraction, dégaineur automatique ou pince à dénuder, tournevis, et plus
-- Instruments: alimentation DC de table, générateur de fonction, multimètres portable et de table, oscilloscope de table
+1. Outils: pinces, brucelles, cutters, ciseaux, station de soudure, outils d’extraction, dégaineur automatique ou pince à dénuder, tournevis, et plus
+2. Instruments: alimentation DC de table, générateur de fonction, multimètres portable et de table, oscilloscope de table
 
 | Échantillons  |   |   |
 |:---|:---:|:---:|
@@ -20,8 +20,8 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 | <img src="img/ampere_transistors.jpg" alt="" width="215">  | <img src="img/farad_capacitors.jpg" alt="" width="215">  | <img src="img/ohm_resistors.jpg" alt="" width="215">  | <img src="img/ohm_resistors2.jpg" alt="" width="215">  |
 | <img src="img/volt_regulators.jpg" alt="" width="215">  | <img src="img/laws.jpg" alt="" width="215">  | <img src="img/schema_a.jpg" alt="" width="215">  | <img src="img/schema_b.jpg" alt="" width="215">  |
 
-- Composants: plaquette ou platine de montage, fils de connexion, pinces crocodile, connecteurs banane,  câbles coaxiaux, résistances, résistances SIP, condensateurs, bobines, DELs (unicolore, bicolore, RGB), barographes, boutons (on-off, off-on), résistances pour rappels haut et bas, moteur DC, moteur step, servomoteurs (90°, 180°, 360°), transistors, diodes, potentiomètres, cartes LCD RGB, photorésistances, capteurs environnementaux (température, humidité, etc.), relais, interrupteurs, bascules (*flip-flop*), et plus
-- Protocoles: broches GPIO analogiques (8-bit ou 0-255 en sortie, 10-bit ou 0-1023 en entrée) et numériques (0-1), PWM, SPW, broches en série ou UART (RX, TX), broches I2C (SCL, SDA), broche SPI (SCK, MSO, MOSI, SS), antennes WiFi, Bluetooth et BLE, LoRa
+3. Composants: plaquette ou platine de montage, fils de connexion, pinces crocodile, connecteurs banane,  câbles coaxiaux, résistances, résistances SIP, condensateurs, bobines, DELs (unicolore, bicolore, RGB), barographes, boutons (on-off, off-on), résistances pour rappels haut et bas, moteur DC, moteur step, servomoteurs (90°, 180°, 360°), transistors, diodes, potentiomètres, cartes LCD RGB, photorésistances, capteurs environnementaux (température, humidité, etc.), relais, interrupteurs, bascules (*flip-flop*), et plus
+4. Protocoles: broches GPIO analogiques (8-bit ou 0-255 en sortie, 10-bit ou 0-1023 en entrée) et numériques (0-1), PWM, SPW, broches en série ou UART (RX, TX), broches I2C (SCL, SDA), broche SPI (SCK, MSO, MOSI, SS), antennes WiFi, Bluetooth et BLE, LoRa
 
 | Échantillons  |   |   |
 |:---|:---:|:---:|
@@ -30,7 +30,7 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 | Schémas: relai ; servomoteur  | <img src="img/relai.jpg" alt="" width="250">  | <img src="img/servo.jpg" alt="" width="250">  |
 | Schéma Fritzing: moteur DC  | <img src="img/moteur_dc.jpg" alt="" width="250">  |   |
 
-- Logiciels: EDI Arduino, codes sources C pour piloter le microcontrôleur (et le montage de composants) et analyser les données entrantes, Multisim pour simuler et mesurer un circuit
+5. Logiciels: EDI Arduino, codes sources C pour piloter le microcontrôleur (et le montage de composants) et analyser les données entrantes, Multisim pour simuler et mesurer un circuit
 
 | Échantillons  |   |
 |:---|:---:|
