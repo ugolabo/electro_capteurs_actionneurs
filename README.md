@@ -17,8 +17,8 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 
 | Échantillons  |   |   |   |
 |:---|:---|:---|:---|
-| <img src="img/ampere_transistors.jpg" alt="" width="200">  | <img src="img/farad_capacitors.jpg" alt="" width="200">  | <img src="img/ohm_resistors.jpg" alt="" width="200">  | <img src="img/ohm_resistors2.jpg" alt="" width="200">  |
-| <img src="img/volt_regulators.jpg" alt="" width="200">  | <img src="img/laws.jpg" alt="" width="200">  | <img src="img/schema_a.jpg" alt="" width="200">  | <img src="img/schema_b.jpg" alt="" width="200">  |
+| <img src="img/ampere_transistors.jpg" alt="" width="215">  | <img src="img/farad_capacitors.jpg" alt="" width="221500">  | <img src="img/ohm_resistors.jpg" alt="" width="215">  | <img src="img/ohm_resistors2.jpg" alt="" width="215">  |
+| <img src="img/volt_regulators.jpg" alt="" width="215">  | <img src="img/laws.jpg" alt="" width="215">  | <img src="img/schema_a.jpg" alt="" width="215">  | <img src="img/schema_b.jpg" alt="" width="215">  |
 
 - Composants: plaquette ou platine de montage, fils de connexion, pinces crocodile, connecteurs banane,  câbles coaxiaux, résistances, résistances SIP, condensateurs, bobines, DELs (unicolore, bicolore, RGB), barographes, boutons (on-off, off-on), résistances pour rappels haut et bas, moteur DC, moteur step, servomoteurs (90°, 180°, 360°), transistors, diodes, potentiomètres, cartes LCD RGB, photorésistances, capteurs environnementaux (température, humidité, etc.), relais, interrupteurs, bascules (*flip-flop*), et plus
 - Protocoles: broches GPIO analogiques (8-bit ou 0-255 en sortie, 10-bit ou 0-1023 en entrée) et numériques (0-1), PWM, SPW, broches en série ou UART (RX, TX), broches I2C (SCL, SDA), broche SPI (SCK, MSO, MOSI, SS), antennes WiFi, Bluetooth et BLE, LoRa
