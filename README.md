@@ -9,7 +9,7 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 
 | Échantillons  |   |   |
 |:---|:---|:---|
-| Alimentation ; Générateur de fonctions  | <img src="img/alimentation_table.jpg" alt="" width="150">  | <img src="img/generateur_fonctions.jpg" alt="" width="150">  |
+| Alimentation ; Générateur de fonctions  | <img src="img/alimentation_table.jpg" alt="" width="200">  | <img src="img/generateur_fonctions.jpg" alt="" width="200">  |
 | Multimètres | <img src="img/multimetre_table.jpg" alt="" width="150">  | <img src="img/multimetre.jpg" alt="" width="100">  |
 | Oscilloscope ; Générateur de fonctions  | <img src="img/instruments_1.jpg" alt="" width="150">  | <img src="img/instruments_2.jpg" alt="" width="150">  |
 | Circuit RC: déphasage entre bornes alimentation et bornes résistance | <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="150">  |
