@@ -8,12 +8,12 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 - Instruments: alimentation DC de table, générateur de fonction, multimètres portable et de table, oscilloscope de table
 
 | Échantillons  |   |   |
-|:---|:---|:---|
+|:---|:---:|:---:|
 | Alimentation ; Générateur de fonctions  | <img src="img/alimentation_table.jpg" alt="" width="200">  | <img src="img/generateur_fonctions.jpg" alt="" width="200">  |
-| Multimètres | <img src="img/multimetre_table.jpg" alt="" width="150">  | <img src="img/multimetre.jpg" alt="" width="100">  |
-| Oscilloscope ; Générateur de fonctions  | <img src="img/instruments_1.jpg" alt="" width="150">  | <img src="img/instruments_2.jpg" alt="" width="150">  |
-| Circuit RC: déphasage entre bornes alimentation et bornes résistance | <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="150">  |
-| Circuit RL: mesures aux bornes résistances et bornes bombine | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="" width="150">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="150">  |
+| Multimètres | <img src="img/multimetre_table.jpg" alt="" width="200">  | <img src="img/multimetre.jpg" alt="" width="100">  |
+| Oscilloscope ; Générateur de fonctions  | <img src="img/instruments_1.jpg" alt="" width="200">  | <img src="img/instruments_2.jpg" alt="" width="200">  |
+| Circuit RC: déphasage entre bornes alimentation et bornes résistance | <img src="img/oscilloscope_amp_per_freq1.jpg" alt="" width="200">  | <img src="img/oscilloscope_amp_per_freq2.jpg" alt="" width="200">  |
+| Circuit RL: mesures aux bornes résistances et bornes bombine | <img src="img/oscilloscope_amp_per_freq3.jpg" alt="" width="200">  | <img src="img/oscilloscope_amp_per_freq4.jpg" alt="" width="200">  |
 
 | Échantillons  |   |   |   |
 |:---|:---|:---|:---|
@@ -24,7 +24,7 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 - Protocoles: broches GPIO analogiques (8-bit ou 0-255 en sortie, 10-bit ou 0-1023 en entrée) et numériques (0-1), PWM, SPW, broches en série ou UART (RX, TX), broches I2C (SCL, SDA), broche SPI (SCK, MSO, MOSI, SS), antennes WiFi, Bluetooth et BLE, LoRa
 
 | Échantillons  |   |   |
-|:---|:---|:---|
+|:---|:---:|:---:|
 | Montages: 2 rappels hauts ; rappel haut et rappel bas  | <img src="img/rappel_haut.jpg" alt="" width="200">  | <img src="img/rappel_bas_et_haut.jpg" alt="" width="200">  |
 | Montage: afficheur  | <img src="img/afficheur.jpg" alt="" width="200">  |   |
 | Schémas: relai ; servomoteur  | <img src="img/relai.jpg" alt="" width="200">  | <img src="img/servo.jpg" alt="" width="200">  |
@@ -33,5 +33,5 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 - Logiciels: EDI Arduino, codes sources C pour piloter le microcontrôleur (et le montage de composants) et analyser les données entrantes, Multisim pour simuler et mesurer un circuit
 
 | Échantillons  |   |
-|:---|:---|
+|:---|:---:|
 | Multisim: circuit, simulation et mesure  | <img src="img/multisim.jpg" alt="" width="250">  |
