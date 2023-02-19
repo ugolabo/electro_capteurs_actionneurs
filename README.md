@@ -4,7 +4,7 @@
 
 Projets, expériences (consulter le **projet intégrateur**, par exemple, avec ses composants, un Arduino Uno, un code source C, un diagramme, etc.). Les projets et les expériences impliquent:
 
-1. Outils: pinces, brucelles, cutters, ciseaux, station de soudure, outils d’extraction, dégaineur automatique ou pince à dénuder, tournevis, et plus
+1. Outils: pinces, brucelles, cutters, ciseaux, station de soudure, outils d'extraction, dégaineur automatique ou pince à dénuder, tournevis, et plus
 2. Instruments: alimentation DC de table, générateur de fonction, multimètres portable et de table, oscilloscope de table
 
 | Échantillons  |   |   |
