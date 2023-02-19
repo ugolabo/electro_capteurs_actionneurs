@@ -34,4 +34,4 @@ Projets, expériences (consulter le **projet intégrateur**, par exemple, avec s
 
 | Échantillons  |   |
 |:---|:---:|
-| Multisim: circuit, simulation et mesure  | <img src="img/multisim.jpg" alt="" width="300">  |
+| Multisim: circuit, simulation et mesure  | <img src="img/multisim.jpg" alt="" width="350">  |
